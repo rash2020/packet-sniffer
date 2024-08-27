@@ -34,7 +34,7 @@ A graphical packet sniffer application built using Python and Tkinter, with the 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/packet-sniffer.git
+    git clone https://github.com/rash2020/packet-sniffer
     ```
 2. **Navigate to the project directory**:
     ```bash
